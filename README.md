@@ -15,6 +15,9 @@ CREATE POST
 SHOW POSTS PAGE
 ![Screenshot 2024-09-23 160257](https://github.com/user-attachments/assets/f19c7059-93e3-4a15-bab4-e143f84a35e9)
 
+VIEW SINGLE POST
+![Screenshot 2024-09-23 164529](https://github.com/user-attachments/assets/bd8dbb42-eb37-4219-b377-16ae5bf8d6f0)
+
 EDIT POST PAGE
 ![Screenshot 2024-09-23 160317](https://github.com/user-attachments/assets/14e21f6b-2b20-49fc-9485-af0746fd8a7d)
 
