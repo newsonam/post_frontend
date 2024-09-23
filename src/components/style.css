@@ -1,0 +1,119 @@
+/* home */
+
+img{
+ height:90%;
+ width:100%;
+}
+
+
+/* HEADER COMPONENT */
+
+.header{
+    background-color: black;
+    color:white;
+    height:12vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap:14rem;
+    margin-bottom: 0;
+}
+
+.imgtitle{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap:0.6rem;
+}
+.links{
+  
+  display: flex;
+  gap:2rem;
+}
+.link{
+  color:blue !important;
+  text-decoration: none;
+  font-size: 1.3rem;
+}
+
+
+/* MAIN COMPONENT */
+.main{
+    background-color: #D3D3D3;
+    height:50vh;
+     display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center; 
+}
+.howtitle{
+    font-size: 3.5rem;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.search-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black; /* Light gray border */
+    padding: 5px;
+    background-color: #f8f8ff; /* Light gray background */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Light shadow */
+    width:35vw;
+  }
+  
+  .search-box input {
+    border: none;
+    outline: none;
+    padding: 10px;
+    flex-grow: 1;
+    border-radius: 8px;
+    background-color: transparent; /* Transparent to blend with the background */
+    font-size: 16px;
+  }
+  
+  .search-box button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 10px;
+    outline: none;
+  }
+  
+  .search-box button span {
+    font-size: 20px;
+    color: #000; /* Black arrow */
+  }
+
+
+  /* FOOTER COMPONENT */
+
+  .footer{
+    display: flex;
+    justify-content: space-evenly;
+    gap:8rem;
+    margin-top: 5rem;
+    height:50vh;
+    background-color: #000;
+    color:white;
+    padding:10px 40px;
+  }
+
+  h5{
+    line-height: 0.3rem;
+    font-weight: 400;
+  }
+
+  li{
+    text-decoration: none;
+  }
+
+
+.end-item {
+  align-self: flex-end;
+}
+  
